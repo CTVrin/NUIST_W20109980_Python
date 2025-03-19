@@ -10,7 +10,7 @@ def studList():
 
 def addToList(studentNames):
 
-    newName = input("请输入要添加的名字: ")
+    newName = input("Please enter the name: ")
 
 
     studentNames.append(newName)
